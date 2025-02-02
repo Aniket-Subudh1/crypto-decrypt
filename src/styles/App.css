@@ -1,0 +1,52 @@
+.App {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .form-group {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .form-control {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .output {
+    background-color: #e9ecef;
+    padding: 1rem;
+    border-radius: 4px;
+    word-break: break-all;
+    margin-top: 1rem;
+  }
+  
+  h1 {
+    color: #212529;
+    margin-bottom: 1.5rem;
+  }
+  
+  .small-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
